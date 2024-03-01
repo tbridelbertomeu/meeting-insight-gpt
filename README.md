@@ -1,1 +1,3 @@
-# meeting-insight-gpt
+#  Meeting Insight GPT
+
+Senior secretary for meeting insights.
